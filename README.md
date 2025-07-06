@@ -1,4 +1,4 @@
-**RED CONVULCIONAL** 
+**RED CONVULUCIONAL** 
 
 DESCRIPCION:
 se tenia que hacer una red convulucional o perceptron en la cual yo la red convulcional con imagenes 
